@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{4934975B-DA60-4A8F-8E74-93F29A05A1E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Supermarket.API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="1" />
+      <File FileName="Controllers/WeatherForecastController.cs" />
+      <File FileName="Domain/Models/Category.cs" />
+      <File FileName="Domain/Models/Product.cs" />
+      <File FileName="Domain/Models/EUnitOfMeasurement.cs" />
+      <File FileName="Controllers/CategoriesController.cs" />
+      <File FileName="Services/CategoryService.cs" />
+      <File FileName="Domain/Repositories/ICategoryRepository.cs" />
+      <File FileName="Persistence/Contexts/AppDbContext.cs" />
+      <File FileName="Startup.cs" Line="49" Column="39" />
+      <File FileName="Persistence/Repositories/BaseRepository.cs" />
+      <File FileName="Persistence/Repositories/CategoryRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Supermarket.API" expanded="True">
+            <Node name="Supermarket.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Persistence" expanded="True">
+                <Node name="Contexts" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
